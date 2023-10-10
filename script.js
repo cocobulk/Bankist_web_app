@@ -46,3 +46,5 @@ btnScrollTo.addEventListener('click', function (e) {
   // Scrolling
   section1.scrollIntoView({ behavior: 'smooth' });
 });
+
+// test to commit
